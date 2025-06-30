@@ -1,4 +1,4 @@
-module github.com/yoshino-s/semgrep-semgrep-interfaces
+module github.com/yoshino-s/semgrep-interfaces
 
 go 1.24.3
 
