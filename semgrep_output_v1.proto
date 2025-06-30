@@ -8,7 +8,7 @@ package semgrep_output_v1;
 
 import "google/protobuf/any.proto";
 
-option go_package = "github.com/yoshino-s/semgrep-interfaces/semgrep_output_v1";
+option go_package = "github.com/yoshino-s/semgrep-interfaces/proto";
 
 message CliOutput {
   string version = 508888787;
